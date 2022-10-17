@@ -3,7 +3,7 @@ import streamlit as st
 
 """
 
-Here, you can convert the units between wavelength, energy, period, and frequency :heart:
+Here, you can convert the units between wavelength, energy, period, wavenumber, and frequency :heart:
 
 """
 option = st.selectbox(
